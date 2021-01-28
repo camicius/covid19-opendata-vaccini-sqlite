@@ -3,5 +3,5 @@ Questo repository contiene un file sqlite con il mirror delle informazioni conte
 
 Il db è aggiornato il prima possibile, ma non si risponde né della bontà né dell'aggiornamento dei dati stessi
 
-Non c'è nessuna garanzia, né implicita né esplicita sulla aderenza al repository ufficiale. 
+Non c'è nessuna garanzia, né implicita né esplicita sulla aderenza al repository ufficiale, soprattutto nel momento in cui viene modificato (con minimo preavviso) il repository ufficiale. 
 Si fa quel che si può.
