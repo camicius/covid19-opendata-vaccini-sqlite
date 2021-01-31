@@ -7,3 +7,7 @@ Non c'è nessuna garanzia, né implicita né esplicita sulla aderenza al reposit
 Si fa quel che si può.
 
 Dal 31/01/2021 sono state recepite le modifiche del 29/01/2021 (https://github.com/italia/covid19-opendata-vaccini/blob/master/Changelog.md)
+
+# Licenza 
+
+[Creative Commons - Attribuzione 4.0 Internazionale (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/deed.it)
