@@ -10,6 +10,8 @@ Sono state recepite le modifiche annunciate nel changelog (https://github.com/it
 
 Dal 31/01/2021 sono state recepite le modifiche del 29/01/2021
 
+Recepita la modifica (non annunciata) che aggiunge la categoria_altro
+
 # Licenza 
 
 [Creative Commons - Attribuzione 4.0 Internazionale (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/deed.it)
