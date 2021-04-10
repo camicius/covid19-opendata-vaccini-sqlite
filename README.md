@@ -13,6 +13,7 @@ Dal 31/01/2021 sono state recepite le modifiche del 29/01/2021
 Recepita la modifica (non annunciata) che aggiunge la categoria_altro
 
 È stato aggiunto un file csv che contiene i dati del report settimanale del governo. I dati sono copiati a mano, quindi l'aggiornamento non è immediato. Se qualcuno vuole farlo prima che lo faccia io, basta fare una pull request che verrà approvata al più presto. Ho impostato una struttura che mi sembra sensata, ma sono aperto a qualunque consiglio.
+Aggiornata alla versione del report del governo del 10 aprile 2021
 
 # Licenza 
 
