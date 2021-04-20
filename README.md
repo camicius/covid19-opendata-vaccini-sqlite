@@ -13,7 +13,7 @@ Si fa quel che si può.
 * Sono state recepite le modifiche annunciate nel changelog (https://github.com/italia/covid19-opendata-vaccini/blob/master/Changelog.md) il 20/02/2021 e andate in produzione con il commit di questa mattina.
 * Dal 31/01/2021 sono state recepite le modifiche del 29/01/2021
 * Recepita la modifica (non annunciata) che aggiunge la categoria_altro
-* Recepite le modifiche anninciate il 19/04/2021 con l'aggiunta delle categorie 60-69, 70-79 e soggetti fragili
+* Recepite le modifiche annunciate il 19/04/2021 con l'aggiunta delle categorie 60-69, 70-79 e soggetti fragili
 
 
 # Licenza 
