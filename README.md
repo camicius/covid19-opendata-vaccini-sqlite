@@ -6,13 +6,14 @@ Il db è aggiornato il prima possibile, ma non si risponde né della bontà né 
 Non c'è nessuna garanzia, né implicita né esplicita sulla aderenza al repository ufficiale, soprattutto nel momento in cui viene modificato (con minimo preavviso) il repository ufficiale. 
 Si fa quel che si può.
 
-Sono state recepite le modifiche annunciate nel changelog (https://github.com/italia/covid19-opendata-vaccini/blob/master/Changelog.md) il 20/02/2021 e andate in produzione con il commit di questa mattina.
+È inoltre presente un file csv che contiene i dati del report settimanale del governo. I dati sono copiati a mano, quindi l'aggiornamento non è immediato. Se qualcuno vuole farlo prima che lo faccia io, basta fare una pull request che verrà approvata al più presto. Ho impostato una struttura che mi sembra sensata, ma sono aperto a qualunque consiglio. È presente anche una directory con i report originali prelevati dal sito del governo.
 
-Dal 31/01/2021 sono state recepite le modifiche del 29/01/2021
+# Modifiche efffettuate
 
-Recepita la modifica (non annunciata) che aggiunge la categoria_altro
-
-È stato aggiunto un file csv che contiene i dati del report settimanale del governo. I dati sono copiati a mano, quindi l'aggiornamento non è immediato. Se qualcuno vuole farlo prima che lo faccia io, basta fare una pull request che verrà approvata al più presto. Ho impostato una struttura che mi sembra sensata, ma sono aperto a qualunque consiglio. Ho aggiunto anche una directory con i report originali prelevati dal sito del governo.
+* Sono state recepite le modifiche annunciate nel changelog (https://github.com/italia/covid19-opendata-vaccini/blob/master/Changelog.md) il 20/02/2021 e andate in produzione con il commit di questa mattina.
+* Dal 31/01/2021 sono state recepite le modifiche del 29/01/2021
+* Recepita la modifica (non annunciata) che aggiunge la categoria_altro
+* Recepite le modifiche anninciate il 19/04/2021 con l'aggiunta delle categorie 60-69, 70-79 e soggetti fragili
 
 
 # Licenza 
