@@ -14,6 +14,7 @@ Si fa quel che si può.
 * Dal 31/01/2021 sono state recepite le modifiche del 29/01/2021
 * Recepita la modifica (non annunciata) che aggiunge la categoria_altro
 * Recepite le modifiche annunciate il 19/04/2021 con l'aggiunta delle categorie 60-69, 70-79 e soggetti fragili
+* Recepita l'eliminazione delle categorie annunciata il 27/05
 
 
 # Licenza 
